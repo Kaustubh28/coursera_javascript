@@ -1,3 +1,3 @@
-# Coursera-Javascript
+# Readme
 coursera test repository
 check 123...
